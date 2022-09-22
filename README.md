@@ -1,7 +1,6 @@
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=rzeldent&show_icons=true&include_all_commits=true&hide_border=true&count_private=true" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rzeldent&layout=compact&hide_border=true&langs_count=6"/> |
 | ------------- | ------------- |
 
-<img width="100" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-line.svg">
 <!--
 **rzeldent/rzeldent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
