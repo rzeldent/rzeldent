@@ -1,7 +1,7 @@
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=rzeldent&show_icons=true&include_all_commits=true&hide_border=true&count_private=true" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rzeldent&layout=compact&hide_border=true&langs_count=6"/> |
 | ------------- | ------------- |
 
-![](https://komarev.com/ghpvc/?username=rzeldent&abbreviated=true) ![](https://img.shields.io/github/followers/rzeldent)
+![](https://komarev.com/ghpvc/?username=rzeldent&abbreviated=true) ![](https://img.shields.io/github/followers/rzeldent) ![](https://img.shields.io/github/stars/rzeldent)
 
 You :heart: it? Please :star: it!
 <!--
